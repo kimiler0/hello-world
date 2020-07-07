@@ -1,3 +1,3 @@
 # hello-world
-just another repository
-\nhello world,this is sssn.
+just another repository.
+hello world,this is sssn.
